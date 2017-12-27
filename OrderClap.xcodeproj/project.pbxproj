@@ -99,7 +99,7 @@
 		203250A21FF463C6006878A4 /* OrderClap */ = {
 			isa = PBXGroup;
 			children = (
-				203250A31FF463C6006878A4 /* AppDelegate.swift */,
+				203250D41FF46433006878A4 /* Other */,
 				203250A51FF463C6006878A4 /* ViewController.swift */,
 				203250A71FF463C6006878A4 /* Main.storyboard */,
 				203250AD1FF463C6006878A4 /* Assets.xcassets */,
@@ -126,6 +126,14 @@
 				203250C81FF463C6006878A4 /* Info.plist */,
 			);
 			path = OrderClapUITests;
+			sourceTree = "<group>";
+		};
+		203250D41FF46433006878A4 /* Other */ = {
+			isa = PBXGroup;
+			children = (
+				203250A31FF463C6006878A4 /* AppDelegate.swift */,
+			);
+			path = Other;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
