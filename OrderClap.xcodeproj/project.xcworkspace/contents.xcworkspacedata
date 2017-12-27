@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:OrderClap.xcodeproj">
+      location = "self:Grocr.xcodeproj">
    </FileRef>
 </Workspace>
